@@ -1,4 +1,4 @@
-# Environment Variabel PATH Linux
+# Environment Variable Linux
 
 Kali ini kita akan membahas tentang environment variable di Linux. Environment Variable merupakan value dinamis yang dapat memengaruhi perilaku proses yang sedang berjalan di komputer. Mereka memainkan peran penting dalam system configuration dan program execution. Dengan menguasai environment variable, kamu akan memperoleh keterampilan esensial untuk Linux system administration dan software development.
 
